@@ -2,9 +2,9 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/slider-bg-1.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
+  title: "Domain Medics - The right partner in building YOUR PRACTICE"
   content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
   button:
     enable: true
@@ -14,9 +14,9 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  title: "What We Do"
+  description: "Domain Medics specializes in providing world class websites, integrated marketing and practice-building business consulting to professional services providers in the United States. We work with medical and dental industry providers, architects, consultants, individual name brands, and businesses that center around highly specialized services."
+  content: "We provide strategic web-centric services for medical industry professionals from pain management specialists to dentists, to surgeons; to architects, lawyers, individual brands and other specialized service providers. Click on a service to see more about our service offerings, which include marketing, consulting, and web development among a host of other integrated services custom built to push your practice higher in the search results and create a better bottom line. "
   image: "images/wrapper-img.png"
 
 
@@ -24,14 +24,8 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "Our Approach"
+  content: " We build bespoke solutions for our clientele to help them deliver the exact online experience for their target clients. We curate copy, and refine offerings and client interactions to streamline processes and help you focus on doing your specialty. We provide integrated solutions for the, legal, business, and compliance aspects of your business.
   "
   button:
     enable: true
@@ -59,8 +53,9 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  title: "Let's Build Something Together"
+  description: "'Domain Medics helps Professional Services practices like Medical, Architectural, Legal and Individual Specialty Service Providers build world class web experiences and optimize their practice.
+'"
   funfact_item:
   # funfacts item loop
   - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
@@ -86,19 +81,19 @@ funfacts:
   # testimonial item loop
   - name: "Raymond Roy"
     image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
+    designation: "Doctor"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
   # testimonial item loop
   - name: "Randi Renin"
     image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
+    designation: "Nurse"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
   # testimonial item loop
   - name: "Rose Rio"
     image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
+    designation: "Legal Advisor"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
 

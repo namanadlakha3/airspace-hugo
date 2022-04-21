@@ -1,20 +1,20 @@
 # theme.toml for the Airspace Hugo theme
 
-name = "Airspace Hugo"
+name = "domainmedics Hugo"
 license = "MIT"
-licenselink = "https://github.com/themefisher/airspace-hugo/blob/master/LICENSE"
+licenselink = ""
 description = "Airspace is a Hugo theme built for multipurpose use, like Portfolio, Blog, Business."
-homepage = "https://gethugothemes.com/products/airspace-hugo-theme/"
-demosite = "https://demo.gethugothemes.com/airspace/"
-tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'agency-template', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher", "gethugothemes"]
+homepage = ""
+demosite = ""
+tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'agency-template', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "domainmedics", "gethugothemes"]
 features = ["blog", "company", "responsive", "seo-friendly"]
 min_version = "0.87.0"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "domainmedics"
+  homepage = ""
 
 [original]
   name = "Airspace"
-  homepage = "https://themefisher.com/products/airspace-free-bootstrap-website-template/"
-  repo = "https://github.com/themefisher/airspace-free-html5-agency-template"
+  homepage = ""
+  repo = ""

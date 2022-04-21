@@ -16,10 +16,6 @@ name = "Project"
 url = "project/"
 weight = 3
 
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
 
 [[main]]
 weight = 5
@@ -38,11 +34,7 @@ hasChildren = true
   url = "pricing/"
   weight = 2
 
-  [[main]]
-  parent = "More"
-  name = "FAQ"
-  url = "faq/"
-  weight = 3
+
   
 [[main]]
 name = "Contact"
