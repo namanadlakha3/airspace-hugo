@@ -1,7 +1,7 @@
 ---
 title: "About Our Company"
 description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.avi"
 layout: "about"
 draft: false
 

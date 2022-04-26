@@ -23,7 +23,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.jpg"
+  bg_image: "images/feature-bg.avi"
   title: "Our Approach"
   content: " We build bespoke solutions for our clientele to help them deliver the exact online experience for their target clients. We curate copy, and refine offerings and client interactions to streamline processes and help you focus on doing your specialty. We provide integrated solutions for the, legal, business, and compliance aspects of your business.
   "
