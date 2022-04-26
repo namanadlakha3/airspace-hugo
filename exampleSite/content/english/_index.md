@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg-1.jpg"
+  bg_image: "images/slider-bg-1.avi"
   bg_overlay: true
   title: "Domain Medics - The right partner in building YOUR PRACTICE"
   content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
@@ -17,7 +17,7 @@ about:
   title: "What We Do"
   description: "Domain Medics specializes in providing world class websites, integrated marketing and practice-building business consulting to professional services providers in the United States. We work with medical and dental industry providers, architects, consultants, individual name brands, and businesses that center around highly specialized services."
   content: "We provide strategic web-centric services for medical industry professionals from pain management specialists to dentists, to surgeons; to architects, lawyers, individual brands and other specialized service providers. Click on a service to see more about our service offerings, which include marketing, consulting, and web development among a host of other integrated services custom built to push your practice higher in the search results and create a better bottom line. "
-  image: "images/wrapper-img.png"
+  image: "images/wrapper-img.avi"
 
 
 ######################### Portfolio ###############################
@@ -79,19 +79,19 @@ funfacts:
   testimonial_slider:
   # testimonial item loop
   - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
+    image: "images/clients/avater-1.webp"
     designation: "Doctor"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
   # testimonial item loop
   - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
+    image: "images/clients/avater-1.webp"
     designation: "Nurse"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
   # testimonial item loop
   - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
+    image: "images/clients/avater-3.webp"
     designation: "Legal Advisor"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
